@@ -1,0 +1,30 @@
+{
+    "yasso": {
+        "score": 1050,
+        "difficulty": "Hard"
+    },
+    "YAS": {
+        "score": 600,
+        "difficulty": "Hard"
+    },
+    "Ja": {
+        "score": 450,
+        "difficulty": "Hard"
+    },
+    "yass": {
+        "score": 440,
+        "difficulty": "Normal"
+    },
+    "JAS": {
+        "score": 360,
+        "difficulty": "Normal"
+    },
+    "player": {
+        "score": 140,
+        "difficulty": "Normal"
+    },
+    "gh": {
+        "score": 120,
+        "difficulty": "Normal"
+    }
+}
